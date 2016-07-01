@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+ <pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2015/05/ProvisioningSchema"> 
+   <pnp:Preferences Generator="OfficeDevPnP.Core, Version=1.4.815.0, Culture=neutral, PublicKeyToken=null" /> 
+   <pnp:Templates ID="SECONDTEST"> 
+     <pnp:ProvisioningTemplate ID="SECONDTESTPROVISIONING" Version="1" DisplayName="Second Test Display Name" Description="Second Test Description"> 
+       <pnp:SiteFields> 
+       </pnp:SiteFields> 
+     </pnp:ProvisioningTemplate> 
+   </pnp:Templates> 
+ </pnp:Provisioning>
